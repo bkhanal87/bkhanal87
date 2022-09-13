@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bkhanal87
+- 👋 Hi, I’m Basu Khanal
 - 👀 I’m interested in ...Full Stack Web Development
 - 🌱 I’m currently learning ...Full Stack Development - The Odin Project
 - 💞️ I’m looking to collaborate on ...Full Stack Applications
