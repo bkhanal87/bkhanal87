@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Basu Khanal
 - 👀 I’m interested in ...Full Stack Web Development
-- 🌱 I’m currently learning ...React
+- 🌱 I’m currently learning ...MERN Stack
 - 💞️ I’m looking to collaborate on ...Full Stack Applications
 - 📫 How to reach me ...here or via email
 
